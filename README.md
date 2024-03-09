@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariana Algafy</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A Passionate Frontend Developer From Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriana9&label=Profile%20views&color=0e75b6&style=flat" alt="mriana9" /> </p>
 
